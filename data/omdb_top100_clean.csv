@@ -1,0 +1,101 @@
+Rank,Title,Year,Genre,Director,Actors,imdbRating,BoxOffice,Runtime,imdbID,imdbLink,Decade,MainGenre
+1,The Shawshank Redemption,1994,Drama,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",9.3,28767189.0,142,tt0111161,https://www.imdb.com/title/tt0111161/,1990,Drama
+2,The Godfather,1972,"Crime, Drama",Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan",9.2,136381073.0,175,tt0068646,https://www.imdb.com/title/tt0068646/,1970,Crime
+3,The Dark Knight,2008,"Action, Crime, Drama",Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",9.1,534987076.0,152,tt0468569,https://www.imdb.com/title/tt0468569/,2000,Action
+4,The Godfather Part II,1974,"Crime, Drama",Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall",9.0,47834595.0,202,tt0071562,https://www.imdb.com/title/tt0071562/,1970,Crime
+5,12 Angry Men,1957,"Crime, Drama",Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam",9.0,,96,tt0050083,https://www.imdb.com/title/tt0050083/,1950,Crime
+6,The Lord of the Rings: The Return of the King,2003,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen",9.0,381878219.0,201,tt0167260,https://www.imdb.com/title/tt0167260/,2000,Adventure
+7,Schindler's List,1993,"Biography, Drama, History",Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley",9.0,96898818.0,195,tt0108052,https://www.imdb.com/title/tt0108052/,1990,Biography
+8,Pulp Fiction,1994,"Crime, Drama",Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson",8.8,107928762.0,154,tt0110912,https://www.imdb.com/title/tt0110912/,1990,Crime
+9,The Lord of the Rings: The Fellowship of the Ring,2001,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom",8.9,319372078.0,178,tt0120737,https://www.imdb.com/title/tt0120737/,2000,Adventure
+10,"The Good, the Bad and the Ugly",1966,"Adventure, Drama, Western",Sergio Leone,"Clint Eastwood, Eli Wallach, Lee Van Cleef",8.8,25100000.0,178,tt0060196,https://www.imdb.com/title/tt0060196/,1960,Adventure
+11,Forrest Gump,1994,"Drama, Romance",Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise",8.8,330455270.0,142,tt0109830,https://www.imdb.com/title/tt0109830/,1990,Drama
+12,The Lord of the Rings: The Two Towers,2002,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",8.8,345518923.0,179,tt0167261,https://www.imdb.com/title/tt0167261/,2000,Adventure
+13,Fight Club,1999,"Crime, Drama, Thriller",David Fincher,"Brad Pitt, Edward Norton, Meat Loaf",8.8,37030102.0,139,tt0137523,https://www.imdb.com/title/tt0137523/,1990,Crime
+14,Inception,2010,"Action, Adventure, Sci-Fi",Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",8.8,292587330.0,148,tt1375666,https://www.imdb.com/title/tt1375666/,2010,Action
+15,Star Wars: Episode V - The Empire Strikes Back,1980,"Action, Adventure, Fantasy",Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher",8.7,292753960.0,124,tt0080684,https://www.imdb.com/title/tt0080684/,1980,Action
+16,The Matrix,1999,"Action, Sci-Fi","Lana Wachowski, Lilly Wachowski","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",8.7,172076928.0,136,tt0133093,https://www.imdb.com/title/tt0133093/,1990,Action
+17,Goodfellas,1990,"Biography, Crime, Drama",Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",8.7,46909721.0,145,tt0099685,https://www.imdb.com/title/tt0099685/,1990,Biography
+18,Interstellar,2014,"Adventure, Drama, Sci-Fi",Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",8.7,203227580.0,169,tt0816692,https://www.imdb.com/title/tt0816692/,2010,Adventure
+19,One Flew Over the Cuckoo's Nest,1975,Drama,Milos Forman,"Jack Nicholson, Louise Fletcher, Michael Berryman",8.7,108981275.0,133,tt0073486,https://www.imdb.com/title/tt0073486/,1970,Drama
+20,Se7en,1995,"Crime, Drama, Mystery",David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey",8.6,101040643.0,127,tt0114369,https://www.imdb.com/title/tt0114369/,1990,Crime
+21,It's a Wonderful Life,1946,"Drama, Family, Fantasy",Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore",8.6,1483643.0,130,tt0038650,https://www.imdb.com/title/tt0038650/,1940,Drama
+22,The Silence of the Lambs,1991,"Crime, Drama, Horror",Jonathan Demme,"Jodie Foster, Anthony Hopkins, Scott Glenn",8.6,130742922.0,118,tt0102926,https://www.imdb.com/title/tt0102926/,1990,Crime
+23,Seven Samurai,1954,"Action, Drama",Akira Kurosawa,"Toshirô Mifune, Takashi Shimura, Keiko Tsushima",8.6,820278.0,207,tt0047478,https://www.imdb.com/title/tt0047478/,1950,Action
+24,Saving Private Ryan,1998,"Drama, War",Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore",8.6,217049603.0,169,tt0120815,https://www.imdb.com/title/tt0120815/,1990,Drama
+25,The Green Mile,1999,"Crime, Drama, Fantasy",Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse",8.6,136801374.0,189,tt0120689,https://www.imdb.com/title/tt0120689/,1990,Crime
+26,City of God,2002,"Crime, Drama","Fernando Meirelles, Kátia Lund","Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",8.6,7564459.0,130,tt0317248,https://www.imdb.com/title/tt0317248/,2000,Crime
+27,Life Is Beautiful,1997,"Comedy, Drama, Romance",Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",8.6,57563264.0,116,tt0118799,https://www.imdb.com/title/tt0118799/,1990,Comedy
+28,Terminator 2: Judgment Day,1991,"Action, Adventure, Sci-Fi",James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",8.6,205881154.0,137,tt0103064,https://www.imdb.com/title/tt0103064/,1990,Action
+29,Star Wars: Episode IV - A New Hope,1977,"Action, Adventure, Fantasy",George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher",8.6,460998507.0,121,tt0076759,https://www.imdb.com/title/tt0076759/,1970,Action
+30,Back to the Future,1985,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson",8.5,214553307.0,116,tt0088763,https://www.imdb.com/title/tt0088763/,1980,Adventure
+31,Spirited Away,2001,"Animation, Adventure, Family",Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette, Miyu Irino",8.6,15205725.0,124,tt0245429,https://www.imdb.com/title/tt0245429/,2000,Animation
+32,The Pianist,2002,"Biography, Drama, Music",Roman Polanski,"Adrien Brody, Thomas Kretschmann, Frank Finlay",8.5,32590750.0,150,tt0253474,https://www.imdb.com/title/tt0253474/,2000,Biography
+33,Gladiator,2000,"Action, Adventure, Drama",Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",8.5,187705427.0,155,tt0172495,https://www.imdb.com/title/tt0172495/,2000,Action
+34,Parasite,2019,"Drama, Thriller",Bong Joon Ho,"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",8.5,53847897.0,132,tt6751668,https://www.imdb.com/title/tt6751668/,2010,Drama
+35,Psycho,1960,"Drama, Horror, Mystery",Alfred Hitchcock,"Anthony Perkins, Janet Leigh, Vera Miles",8.5,32181230.0,109,tt0054215,https://www.imdb.com/title/tt0054215/,1960,Drama
+36,The Lion King,1994,"Animation, Adventure, Drama","Roger Allers, Rob Minkoff","Matthew Broderick, Jeremy Irons, James Earl Jones",8.5,424979720.0,88,tt0110357,https://www.imdb.com/title/tt0110357/,1990,Animation
+37,Grave of the Fireflies,1988,"Animation, Drama, War",Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",8.5,516962.0,88,tt0095327,https://www.imdb.com/title/tt0095327/,1980,Animation
+38,The Departed,2006,"Crime, Drama, Thriller",Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",8.5,132399394.0,151,tt0407887,https://www.imdb.com/title/tt0407887/,2000,Crime
+39,Whiplash,2014,"Drama, Music",Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist",8.5,14003391.0,106,tt2582802,https://www.imdb.com/title/tt2582802/,2010,Drama
+40,Harakiri,1962,"Drama, Mystery",Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",8.6,,133,tt0056058,https://www.imdb.com/title/tt0056058/,1960,Drama
+41,The Prestige,2006,"Drama, Mystery, Sci-Fi",Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson",8.5,53089891.0,130,tt0482571,https://www.imdb.com/title/tt0482571/,2000,Drama
+42,American History X,1998,"Crime, Drama",Tony Kaye,"Edward Norton, Edward Furlong, Beverly D'Angelo",8.5,6719864.0,119,tt0120586,https://www.imdb.com/title/tt0120586/,1990,Crime
+43,Léon: The Professional,1994,"Action, Crime, Drama",Luc Besson,"Jean Reno, Gary Oldman, Natalie Portman",8.5,19501238.0,110,tt0110413,https://www.imdb.com/title/tt0110413/,1990,Action
+44,Spider-Man: Across the Spider-Verse,2023,"Animation, Action, Adventure","Joaquim Dos Santos, Kemp Powers, Justin K. Thompson","Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",8.5,381593754.0,140,tt9362722,https://www.imdb.com/title/tt9362722/,2020,Animation
+45,Casablanca,1942,"Drama, Romance, War",Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid",8.5,4219709.0,102,tt0034583,https://www.imdb.com/title/tt0034583/,1940,Drama
+46,Cinema Paradiso,1988,"Drama, Romance",Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale, Antonella Attili",8.5,12397210.0,174,tt0095765,https://www.imdb.com/title/tt0095765/,1980,Drama
+47,The Usual Suspects,1995,"Crime, Drama, Mystery",Bryan Singer,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri",8.5,23341568.0,106,tt0114814,https://www.imdb.com/title/tt0114814/,1990,Crime
+48,The Intouchables,2011,"Comedy, Drama","Olivier Nakache, Éric Toledano","François Cluzet, Omar Sy, Anne Le Ny",8.5,10198820.0,112,tt1675434,https://www.imdb.com/title/tt1675434/,2010,Comedy
+49,Alien,1979,"Horror, Sci-Fi",Ridley Scott,"Sigourney Weaver, Tom Skerritt, John Hurt",8.5,84206106.0,117,tt0078748,https://www.imdb.com/title/tt0078748/,1970,Horror
+50,Modern Times,1936,"Comedy, Drama, Romance",Charles Chaplin,"Charles Chaplin, Paulette Goddard, Henry Bergman",8.5,163577.0,87,tt0027977,https://www.imdb.com/title/tt0027977/,1930,Comedy
+51,Rear Window,1954,"Drama, Mystery, Thriller",Alfred Hitchcock,"James Stewart, Grace Kelly, Wendell Corey",8.5,37622343.0,112,tt0047396,https://www.imdb.com/title/tt0047396/,1950,Drama
+52,Django Unchained,2012,"Drama, Western",Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",8.5,162805434.0,165,tt1853728,https://www.imdb.com/title/tt1853728/,2010,Drama
+53,Once Upon a Time in the West,1968,"Drama, Western",Sergio Leone,"Henry Fonda, Charles Bronson, Claudia Cardinale",8.5,5321508.0,166,tt0064116,https://www.imdb.com/title/tt0064116/,1960,Drama
+54,City Lights,1931,"Comedy, Drama, Romance",Charles Chaplin,"Charles Chaplin, Virginia Cherrill, Florence Lee",8.5,19181.0,87,tt0021749,https://www.imdb.com/title/tt0021749/,1930,Comedy
+55,Apocalypse Now,1979,"Drama, Mystery, War",Francis Ford Coppola,"Martin Sheen, Marlon Brando, Robert Duvall",8.4,96074376.0,147,tt0078788,https://www.imdb.com/title/tt0078788/,1970,Drama
+56,WALL·E,2008,"Animation, Adventure, Family",Andrew Stanton,"Ben Burtt, Elissa Knight, Jeff Garlin",8.4,223808164.0,98,tt0910970,https://www.imdb.com/title/tt0910970/,2000,Animation
+57,Memento,2000,"Drama, Mystery, Thriller",Christopher Nolan,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",8.4,25544867.0,113,tt0209144,https://www.imdb.com/title/tt0209144/,2000,Drama
+58,Dune: Part Two,2024,"Action, Adventure, Drama",Denis Villeneuve,"Timothée Chalamet, Zendaya, Rebecca Ferguson",8.5,282144358.0,166,tt15239678,https://www.imdb.com/title/tt15239678/,2020,Action
+59,Raiders of the Lost Ark,1981,"Action, Adventure",Steven Spielberg,"Harrison Ford, Karen Allen, Paul Freeman",8.4,248159971.0,115,tt0082971,https://www.imdb.com/title/tt0082971/,1980,Action
+60,Avengers: Infinity War,2018,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo","Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",8.4,678815482.0,149,tt4154756,https://www.imdb.com/title/tt4154756/,2010,Action
+61,The Lives of Others,2006,"Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck, Sebastian Koch",8.4,11286112.0,137,tt0405094,https://www.imdb.com/title/tt0405094/,2000,Drama
+62,Sunset Boulevard,1950,"Drama, Film-Noir",Billy Wilder,"William Holden, Gloria Swanson, Erich von Stroheim",8.4,299645.0,110,tt0043014,https://www.imdb.com/title/tt0043014/,1950,Drama
+63,Spider-Man: Into the Spider-Verse,2018,"Animation, Action, Adventure","Bob Persichetti, Peter Ramsey, Rodney Rothman","Shameik Moore, Jake Johnson, Hailee Steinfeld",8.4,190241310.0,117,tt4633694,https://www.imdb.com/title/tt4633694/,2010,Animation
+64,Witness for the Prosecution,1957,"Crime, Drama, Mystery",Billy Wilder,"Tyrone Power, Marlene Dietrich, Charles Laughton",8.4,,116,tt0051201,https://www.imdb.com/title/tt0051201/,1950,Crime
+65,Paths of Glory,1957,"Drama, War",Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",8.4,,88,tt0050825,https://www.imdb.com/title/tt0050825/,1950,Drama
+66,The Shining,1980,"Drama, Horror",Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd",8.4,45634352.0,146,tt0081505,https://www.imdb.com/title/tt0081505/,1980,Drama
+67,The Great Dictator,1940,"Comedy, Drama, War",Charles Chaplin,"Charles Chaplin, Paulette Goddard, Jack Oakie",8.4,,125,tt0032553,https://www.imdb.com/title/tt0032553/,1940,Comedy
+68,Inglourious Basterds,2009,"Adventure, Drama, War",Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth",8.4,120540719.0,153,tt0361748,https://www.imdb.com/title/tt0361748/,2000,Adventure
+69,12th Fail,2023,"Biography, Drama",Vidhu Vinod Chopra,"Vikrant Massey, Medha Shankr, Anant Joshi",8.7,,147,tt23849204,https://www.imdb.com/title/tt23849204/,2020,Biography
+70,Aliens,1986,"Action, Adventure, Horror",James Cameron,"Sigourney Weaver, Michael Biehn, Carrie Henn",8.4,85160248.0,137,tt0090605,https://www.imdb.com/title/tt0090605/,1980,Action
+71,The Dark Knight Rises,2012,"Action, Crime, Drama",Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway",8.4,448149584.0,164,tt1345836,https://www.imdb.com/title/tt1345836/,2010,Action
+72,Coco,2017,"Animation, Adventure, Drama","Lee Unkrich, Adrian Molina","Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",8.4,210460015.0,105,tt2380307,https://www.imdb.com/title/tt2380307/,2010,Animation
+73,Amadeus,1984,"Biography, Drama, Music",Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",8.4,51973029.0,160,tt0086879,https://www.imdb.com/title/tt0086879/,1980,Biography
+74,Avengers: Endgame,2019,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo","Robert Downey Jr., Chris Evans, Mark Ruffalo",8.4,858373000.0,181,tt4154796,https://www.imdb.com/title/tt4154796/,2010,Action
+75,Toy Story,1995,"Animation, Adventure, Comedy",John Lasseter,"Tom Hanks, Tim Allen, Don Rickles",8.3,223225679.0,81,tt0114709,https://www.imdb.com/title/tt0114709/,1990,Animation
+76,Good Will Hunting,1997,"Drama, Romance",Gus Van Sant,"Robin Williams, Matt Damon, Ben Affleck",8.3,138433435.0,126,tt0119217,https://www.imdb.com/title/tt0119217/,1990,Drama
+77,High and Low,1963,"Crime, Drama, Mystery",Akira Kurosawa,"Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",8.4,46808.0,143,tt0057565,https://www.imdb.com/title/tt0057565/,1960,Crime
+78,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,"Comedy, War",Stanley Kubrick,"Peter Sellers, George C. Scott, Sterling Hayden",8.3,9440272.0,95,tt0057012,https://www.imdb.com/title/tt0057012/,1960,Comedy
+79,Oldboy,2003,"Action, Drama, Mystery",Park Chan-wook,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",8.3,2458200.0,120,tt0364569,https://www.imdb.com/title/tt0364569/,2000,Action
+80,Das Boot,1981,"Drama, War",Wolfgang Petersen,"Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann",8.4,11487676.0,149,tt0082096,https://www.imdb.com/title/tt0082096/,1980,Drama
+81,Braveheart,1995,"Biography, Drama, War",Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan",8.3,75609945.0,178,tt0112573,https://www.imdb.com/title/tt0112573/,1990,Biography
+82,Your Name.,2016,"Animation, Drama, Fantasy",Makoto Shinkai,"Ryûnosuke Kamiki, Mone Kamishiraishi, Ryo Narita",8.4,5017246.0,106,tt5311514,https://www.imdb.com/title/tt5311514/,2010,Animation
+83,Princess Mononoke,1997,"Animation, Adventure, Fantasy",Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",8.3,11696687.0,133,tt0119698,https://www.imdb.com/title/tt0119698/,1990,Animation
+84,American Beauty,1999,Drama,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch",8.3,130096601.0,122,tt0169547,https://www.imdb.com/title/tt0169547/,1990,Drama
+85,3 Idiots,2009,"Comedy, Drama",Rajkumar Hirani,"Aamir Khan, Madhavan, Mona Singh",8.4,6532874.0,170,tt1187043,https://www.imdb.com/title/tt1187043/,2000,Comedy
+86,Joker,2019,"Crime, Drama, Thriller",Todd Phillips,"Joaquin Phoenix, Robert De Niro, Zazie Beetz",8.3,335477657.0,122,tt7286456,https://www.imdb.com/title/tt7286456/,2010,Crime
+87,Capernaum,2018,Drama,Nadine Labaki,"Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",8.4,1661096.0,126,tt8267604,https://www.imdb.com/title/tt8267604/,2010,Drama
+88,Once Upon a Time in America,1984,"Crime, Drama",Sergio Leone,"Robert De Niro, James Woods, Elizabeth McGovern",8.3,5321508.0,229,tt0087843,https://www.imdb.com/title/tt0087843/,1980,Crime
+89,Singin' in the Rain,1952,"Comedy, Musical, Romance","Stanley Donen, Gene Kelly","Gene Kelly, Donald O'Connor, Debbie Reynolds",8.3,1884537.0,103,tt0045152,https://www.imdb.com/title/tt0045152/,1950,Comedy
+90,Come and See,1985,"Drama, Thriller, War",Elem Klimov,"Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius",8.3,71909.0,142,tt0091251,https://www.imdb.com/title/tt0091251/,1980,Drama
+91,Requiem for a Dream,2000,Drama,Darren Aronofsky,"Ellen Burstyn, Jared Leto, Jennifer Connelly",8.3,3635482.0,102,tt0180093,https://www.imdb.com/title/tt0180093/,2000,Drama
+92,Star Wars: Episode VI - Return of the Jedi,1983,"Action, Adventure, Fantasy",Richard Marquand,"Mark Hamill, Harrison Ford, Carrie Fisher",8.3,316566101.0,131,tt0086190,https://www.imdb.com/title/tt0086190/,1980,Action
+93,Toy Story 3,2010,"Animation, Adventure, Comedy",Lee Unkrich,"Tom Hanks, Tim Allen, Joan Cusack",8.3,415004880.0,103,tt0435761,https://www.imdb.com/title/tt0435761/,2010,Animation
+94,The Hunt,2012,Drama,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",8.3,613308.0,115,tt2106476,https://www.imdb.com/title/tt2106476/,2010,Drama
+95,Ikiru,1952,Drama,Akira Kurosawa,"Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori",8.3,60239.0,143,tt0044741,https://www.imdb.com/title/tt0044741/,1950,Drama
+96,Eternal Sunshine of the Spotless Mind,2004,"Drama, Romance, Sci-Fi",Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson",8.3,34400301.0,108,tt0338013,https://www.imdb.com/title/tt0338013/,2000,Drama
+97,Incendies,2010,"Drama, Mystery, War",Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette",8.3,2071334.0,131,tt1255953,https://www.imdb.com/title/tt1255953/,2010,Drama
+98,The Apartment,1960,"Comedy, Drama, Romance",Billy Wilder,"Jack Lemmon, Shirley MacLaine, Fred MacMurray",8.3,18600000.0,125,tt0053604,https://www.imdb.com/title/tt0053604/,1960,Comedy
+99,2001: A Space Odyssey,1968,"Adventure, Sci-Fi",Stanley Kubrick,"Keir Dullea, Gary Lockwood, William Sylvester",8.3,60481243.0,149,tt0062622,https://www.imdb.com/title/tt0062622/,1960,Adventure
+100,Lawrence of Arabia,1962,"Adventure, Biography, Drama",David Lean,"Peter O'Toole, Alec Guinness, Anthony Quinn",8.3,45306425.0,227,tt0056172,https://www.imdb.com/title/tt0056172/,1960,Adventure

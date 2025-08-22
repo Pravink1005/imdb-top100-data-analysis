@@ -1,0 +1,101 @@
+Rank,Title,Year,Genre,Director,Actors,imdbRating,BoxOffice,Runtime,imdbID,imdbLink
+1,The Shawshank Redemption,1994,Drama,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",9.3,"$28,767,189",142 min,tt0111161,https://www.imdb.com/title/tt0111161/
+2,The Godfather,1972,"Crime, Drama",Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan",9.2,"$136,381,073",175 min,tt0068646,https://www.imdb.com/title/tt0068646/
+3,The Dark Knight,2008,"Action, Crime, Drama",Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",9.1,"$534,987,076",152 min,tt0468569,https://www.imdb.com/title/tt0468569/
+4,The Godfather Part II,1974,"Crime, Drama",Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall",9.0,"$47,834,595",202 min,tt0071562,https://www.imdb.com/title/tt0071562/
+5,12 Angry Men,1957,"Crime, Drama",Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam",9.0,N/A,96 min,tt0050083,https://www.imdb.com/title/tt0050083/
+6,The Lord of the Rings: The Return of the King,2003,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen",9.0,"$381,878,219",201 min,tt0167260,https://www.imdb.com/title/tt0167260/
+7,Schindler's List,1993,"Biography, Drama, History",Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley",9.0,"$96,898,818",195 min,tt0108052,https://www.imdb.com/title/tt0108052/
+8,Pulp Fiction,1994,"Crime, Drama",Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson",8.8,"$107,928,762",154 min,tt0110912,https://www.imdb.com/title/tt0110912/
+9,The Lord of the Rings: The Fellowship of the Ring,2001,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom",8.9,"$319,372,078",178 min,tt0120737,https://www.imdb.com/title/tt0120737/
+10,"The Good, the Bad and the Ugly",1966,"Adventure, Drama, Western",Sergio Leone,"Clint Eastwood, Eli Wallach, Lee Van Cleef",8.8,"$25,100,000",178 min,tt0060196,https://www.imdb.com/title/tt0060196/
+11,Forrest Gump,1994,"Drama, Romance",Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise",8.8,"$330,455,270",142 min,tt0109830,https://www.imdb.com/title/tt0109830/
+12,The Lord of the Rings: The Two Towers,2002,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",8.8,"$345,518,923",179 min,tt0167261,https://www.imdb.com/title/tt0167261/
+13,Fight Club,1999,"Crime, Drama, Thriller",David Fincher,"Brad Pitt, Edward Norton, Meat Loaf",8.8,"$37,030,102",139 min,tt0137523,https://www.imdb.com/title/tt0137523/
+14,Inception,2010,"Action, Adventure, Sci-Fi",Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",8.8,"$292,587,330",148 min,tt1375666,https://www.imdb.com/title/tt1375666/
+15,Star Wars: Episode V - The Empire Strikes Back,1980,"Action, Adventure, Fantasy",Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher",8.7,"$292,753,960",124 min,tt0080684,https://www.imdb.com/title/tt0080684/
+16,The Matrix,1999,"Action, Sci-Fi","Lana Wachowski, Lilly Wachowski","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",8.7,"$172,076,928",136 min,tt0133093,https://www.imdb.com/title/tt0133093/
+17,Goodfellas,1990,"Biography, Crime, Drama",Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",8.7,"$46,909,721",145 min,tt0099685,https://www.imdb.com/title/tt0099685/
+18,Interstellar,2014,"Adventure, Drama, Sci-Fi",Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",8.7,"$203,227,580",169 min,tt0816692,https://www.imdb.com/title/tt0816692/
+19,One Flew Over the Cuckoo's Nest,1975,Drama,Milos Forman,"Jack Nicholson, Louise Fletcher, Michael Berryman",8.7,"$108,981,275",133 min,tt0073486,https://www.imdb.com/title/tt0073486/
+20,Se7en,1995,"Crime, Drama, Mystery",David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey",8.6,"$101,040,643",127 min,tt0114369,https://www.imdb.com/title/tt0114369/
+21,It's a Wonderful Life,1946,"Drama, Family, Fantasy",Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore",8.6,"$1,483,643",130 min,tt0038650,https://www.imdb.com/title/tt0038650/
+22,The Silence of the Lambs,1991,"Crime, Drama, Horror",Jonathan Demme,"Jodie Foster, Anthony Hopkins, Scott Glenn",8.6,"$130,742,922",118 min,tt0102926,https://www.imdb.com/title/tt0102926/
+23,Seven Samurai,1954,"Action, Drama",Akira Kurosawa,"Toshirô Mifune, Takashi Shimura, Keiko Tsushima",8.6,"$820,278",207 min,tt0047478,https://www.imdb.com/title/tt0047478/
+24,Saving Private Ryan,1998,"Drama, War",Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore",8.6,"$217,049,603",169 min,tt0120815,https://www.imdb.com/title/tt0120815/
+25,The Green Mile,1999,"Crime, Drama, Fantasy",Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse",8.6,"$136,801,374",189 min,tt0120689,https://www.imdb.com/title/tt0120689/
+26,City of God,2002,"Crime, Drama","Fernando Meirelles, Kátia Lund","Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",8.6,"$7,564,459",130 min,tt0317248,https://www.imdb.com/title/tt0317248/
+27,Life Is Beautiful,1997,"Comedy, Drama, Romance",Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",8.6,"$57,563,264",116 min,tt0118799,https://www.imdb.com/title/tt0118799/
+28,Terminator 2: Judgment Day,1991,"Action, Adventure, Sci-Fi",James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",8.6,"$205,881,154",137 min,tt0103064,https://www.imdb.com/title/tt0103064/
+29,Star Wars: Episode IV - A New Hope,1977,"Action, Adventure, Fantasy",George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher",8.6,"$460,998,507",121 min,tt0076759,https://www.imdb.com/title/tt0076759/
+30,Back to the Future,1985,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson",8.5,"$214,553,307",116 min,tt0088763,https://www.imdb.com/title/tt0088763/
+31,Spirited Away,2001,"Animation, Adventure, Family",Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette, Miyu Irino",8.6,"$15,205,725",124 min,tt0245429,https://www.imdb.com/title/tt0245429/
+32,The Pianist,2002,"Biography, Drama, Music",Roman Polanski,"Adrien Brody, Thomas Kretschmann, Frank Finlay",8.5,"$32,590,750",150 min,tt0253474,https://www.imdb.com/title/tt0253474/
+33,Gladiator,2000,"Action, Adventure, Drama",Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",8.5,"$187,705,427",155 min,tt0172495,https://www.imdb.com/title/tt0172495/
+34,Parasite,2019,"Drama, Thriller",Bong Joon Ho,"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",8.5,"$53,847,897",132 min,tt6751668,https://www.imdb.com/title/tt6751668/
+35,Psycho,1960,"Drama, Horror, Mystery",Alfred Hitchcock,"Anthony Perkins, Janet Leigh, Vera Miles",8.5,"$32,181,230",109 min,tt0054215,https://www.imdb.com/title/tt0054215/
+36,The Lion King,1994,"Animation, Adventure, Drama","Roger Allers, Rob Minkoff","Matthew Broderick, Jeremy Irons, James Earl Jones",8.5,"$424,979,720",88 min,tt0110357,https://www.imdb.com/title/tt0110357/
+37,Grave of the Fireflies,1988,"Animation, Drama, War",Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",8.5,"$516,962",88 min,tt0095327,https://www.imdb.com/title/tt0095327/
+38,The Departed,2006,"Crime, Drama, Thriller",Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",8.5,"$132,399,394",151 min,tt0407887,https://www.imdb.com/title/tt0407887/
+39,Whiplash,2014,"Drama, Music",Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist",8.5,"$14,003,391",106 min,tt2582802,https://www.imdb.com/title/tt2582802/
+40,Harakiri,1962,"Drama, Mystery",Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",8.6,N/A,133 min,tt0056058,https://www.imdb.com/title/tt0056058/
+41,The Prestige,2006,"Drama, Mystery, Sci-Fi",Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson",8.5,"$53,089,891",130 min,tt0482571,https://www.imdb.com/title/tt0482571/
+42,American History X,1998,"Crime, Drama",Tony Kaye,"Edward Norton, Edward Furlong, Beverly D'Angelo",8.5,"$6,719,864",119 min,tt0120586,https://www.imdb.com/title/tt0120586/
+43,Léon: The Professional,1994,"Action, Crime, Drama",Luc Besson,"Jean Reno, Gary Oldman, Natalie Portman",8.5,"$19,501,238",110 min,tt0110413,https://www.imdb.com/title/tt0110413/
+44,Spider-Man: Across the Spider-Verse,2023,"Animation, Action, Adventure","Joaquim Dos Santos, Kemp Powers, Justin K. Thompson","Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",8.5,"$381,593,754",140 min,tt9362722,https://www.imdb.com/title/tt9362722/
+45,Casablanca,1942,"Drama, Romance, War",Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid",8.5,"$4,219,709",102 min,tt0034583,https://www.imdb.com/title/tt0034583/
+46,Cinema Paradiso,1988,"Drama, Romance",Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale, Antonella Attili",8.5,"$12,397,210",174 min,tt0095765,https://www.imdb.com/title/tt0095765/
+47,The Usual Suspects,1995,"Crime, Drama, Mystery",Bryan Singer,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri",8.5,"$23,341,568",106 min,tt0114814,https://www.imdb.com/title/tt0114814/
+48,The Intouchables,2011,"Comedy, Drama","Olivier Nakache, Éric Toledano","François Cluzet, Omar Sy, Anne Le Ny",8.5,"$10,198,820",112 min,tt1675434,https://www.imdb.com/title/tt1675434/
+49,Alien,1979,"Horror, Sci-Fi",Ridley Scott,"Sigourney Weaver, Tom Skerritt, John Hurt",8.5,"$84,206,106",117 min,tt0078748,https://www.imdb.com/title/tt0078748/
+50,Modern Times,1936,"Comedy, Drama, Romance",Charles Chaplin,"Charles Chaplin, Paulette Goddard, Henry Bergman",8.5,"$163,577",87 min,tt0027977,https://www.imdb.com/title/tt0027977/
+51,Rear Window,1954,"Drama, Mystery, Thriller",Alfred Hitchcock,"James Stewart, Grace Kelly, Wendell Corey",8.5,"$37,622,343",112 min,tt0047396,https://www.imdb.com/title/tt0047396/
+52,Django Unchained,2012,"Drama, Western",Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",8.5,"$162,805,434",165 min,tt1853728,https://www.imdb.com/title/tt1853728/
+53,Once Upon a Time in the West,1968,"Drama, Western",Sergio Leone,"Henry Fonda, Charles Bronson, Claudia Cardinale",8.5,"$5,321,508",166 min,tt0064116,https://www.imdb.com/title/tt0064116/
+54,City Lights,1931,"Comedy, Drama, Romance",Charles Chaplin,"Charles Chaplin, Virginia Cherrill, Florence Lee",8.5,"$19,181",87 min,tt0021749,https://www.imdb.com/title/tt0021749/
+55,Apocalypse Now,1979,"Drama, Mystery, War",Francis Ford Coppola,"Martin Sheen, Marlon Brando, Robert Duvall",8.4,"$96,074,376",147 min,tt0078788,https://www.imdb.com/title/tt0078788/
+56,WALL·E,2008,"Animation, Adventure, Family",Andrew Stanton,"Ben Burtt, Elissa Knight, Jeff Garlin",8.4,"$223,808,164",98 min,tt0910970,https://www.imdb.com/title/tt0910970/
+57,Memento,2000,"Drama, Mystery, Thriller",Christopher Nolan,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",8.4,"$25,544,867",113 min,tt0209144,https://www.imdb.com/title/tt0209144/
+58,Dune: Part Two,2024,"Action, Adventure, Drama",Denis Villeneuve,"Timothée Chalamet, Zendaya, Rebecca Ferguson",8.5,"$282,144,358",166 min,tt15239678,https://www.imdb.com/title/tt15239678/
+59,Raiders of the Lost Ark,1981,"Action, Adventure",Steven Spielberg,"Harrison Ford, Karen Allen, Paul Freeman",8.4,"$248,159,971",115 min,tt0082971,https://www.imdb.com/title/tt0082971/
+60,Avengers: Infinity War,2018,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo","Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",8.4,"$678,815,482",149 min,tt4154756,https://www.imdb.com/title/tt4154756/
+61,The Lives of Others,2006,"Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck, Sebastian Koch",8.4,"$11,286,112",137 min,tt0405094,https://www.imdb.com/title/tt0405094/
+62,Sunset Boulevard,1950,"Drama, Film-Noir",Billy Wilder,"William Holden, Gloria Swanson, Erich von Stroheim",8.4,"$299,645",110 min,tt0043014,https://www.imdb.com/title/tt0043014/
+63,Spider-Man: Into the Spider-Verse,2018,"Animation, Action, Adventure","Bob Persichetti, Peter Ramsey, Rodney Rothman","Shameik Moore, Jake Johnson, Hailee Steinfeld",8.4,"$190,241,310",117 min,tt4633694,https://www.imdb.com/title/tt4633694/
+64,Witness for the Prosecution,1957,"Crime, Drama, Mystery",Billy Wilder,"Tyrone Power, Marlene Dietrich, Charles Laughton",8.4,N/A,116 min,tt0051201,https://www.imdb.com/title/tt0051201/
+65,Paths of Glory,1957,"Drama, War",Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",8.4,N/A,88 min,tt0050825,https://www.imdb.com/title/tt0050825/
+66,The Shining,1980,"Drama, Horror",Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd",8.4,"$45,634,352",146 min,tt0081505,https://www.imdb.com/title/tt0081505/
+67,The Great Dictator,1940,"Comedy, Drama, War",Charles Chaplin,"Charles Chaplin, Paulette Goddard, Jack Oakie",8.4,N/A,125 min,tt0032553,https://www.imdb.com/title/tt0032553/
+68,Inglourious Basterds,2009,"Adventure, Drama, War",Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth",8.4,"$120,540,719",153 min,tt0361748,https://www.imdb.com/title/tt0361748/
+69,12th Fail,2023,"Biography, Drama",Vidhu Vinod Chopra,"Vikrant Massey, Medha Shankr, Anant Joshi",8.7,N/A,147 min,tt23849204,https://www.imdb.com/title/tt23849204/
+70,Aliens,1986,"Action, Adventure, Horror",James Cameron,"Sigourney Weaver, Michael Biehn, Carrie Henn",8.4,"$85,160,248",137 min,tt0090605,https://www.imdb.com/title/tt0090605/
+71,The Dark Knight Rises,2012,"Action, Crime, Drama",Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway",8.4,"$448,149,584",164 min,tt1345836,https://www.imdb.com/title/tt1345836/
+72,Coco,2017,"Animation, Adventure, Drama","Lee Unkrich, Adrian Molina","Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",8.4,"$210,460,015",105 min,tt2380307,https://www.imdb.com/title/tt2380307/
+73,Amadeus,1984,"Biography, Drama, Music",Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",8.4,"$51,973,029",160 min,tt0086879,https://www.imdb.com/title/tt0086879/
+74,Avengers: Endgame,2019,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo","Robert Downey Jr., Chris Evans, Mark Ruffalo",8.4,"$858,373,000",181 min,tt4154796,https://www.imdb.com/title/tt4154796/
+75,Toy Story,1995,"Animation, Adventure, Comedy",John Lasseter,"Tom Hanks, Tim Allen, Don Rickles",8.3,"$223,225,679",81 min,tt0114709,https://www.imdb.com/title/tt0114709/
+76,Good Will Hunting,1997,"Drama, Romance",Gus Van Sant,"Robin Williams, Matt Damon, Ben Affleck",8.3,"$138,433,435",126 min,tt0119217,https://www.imdb.com/title/tt0119217/
+77,High and Low,1963,"Crime, Drama, Mystery",Akira Kurosawa,"Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",8.4,"$46,808",143 min,tt0057565,https://www.imdb.com/title/tt0057565/
+78,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,"Comedy, War",Stanley Kubrick,"Peter Sellers, George C. Scott, Sterling Hayden",8.3,"$9,440,272",95 min,tt0057012,https://www.imdb.com/title/tt0057012/
+79,Oldboy,2003,"Action, Drama, Mystery",Park Chan-wook,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",8.3,"$2,458,200",120 min,tt0364569,https://www.imdb.com/title/tt0364569/
+80,Das Boot,1981,"Drama, War",Wolfgang Petersen,"Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann",8.4,"$11,487,676",149 min,tt0082096,https://www.imdb.com/title/tt0082096/
+81,Braveheart,1995,"Biography, Drama, War",Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan",8.3,"$75,609,945",178 min,tt0112573,https://www.imdb.com/title/tt0112573/
+82,Your Name.,2016,"Animation, Drama, Fantasy",Makoto Shinkai,"Ryûnosuke Kamiki, Mone Kamishiraishi, Ryo Narita",8.4,"$5,017,246",106 min,tt5311514,https://www.imdb.com/title/tt5311514/
+83,Princess Mononoke,1997,"Animation, Adventure, Fantasy",Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",8.3,"$11,696,687",133 min,tt0119698,https://www.imdb.com/title/tt0119698/
+84,American Beauty,1999,Drama,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch",8.3,"$130,096,601",122 min,tt0169547,https://www.imdb.com/title/tt0169547/
+85,3 Idiots,2009,"Comedy, Drama",Rajkumar Hirani,"Aamir Khan, Madhavan, Mona Singh",8.4,"$6,532,874",170 min,tt1187043,https://www.imdb.com/title/tt1187043/
+86,Joker,2019,"Crime, Drama, Thriller",Todd Phillips,"Joaquin Phoenix, Robert De Niro, Zazie Beetz",8.3,"$335,477,657",122 min,tt7286456,https://www.imdb.com/title/tt7286456/
+87,Capernaum,2018,Drama,Nadine Labaki,"Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",8.4,"$1,661,096",126 min,tt8267604,https://www.imdb.com/title/tt8267604/
+88,Once Upon a Time in America,1984,"Crime, Drama",Sergio Leone,"Robert De Niro, James Woods, Elizabeth McGovern",8.3,"$5,321,508",229 min,tt0087843,https://www.imdb.com/title/tt0087843/
+89,Singin' in the Rain,1952,"Comedy, Musical, Romance","Stanley Donen, Gene Kelly","Gene Kelly, Donald O'Connor, Debbie Reynolds",8.3,"$1,884,537",103 min,tt0045152,https://www.imdb.com/title/tt0045152/
+90,Come and See,1985,"Drama, Thriller, War",Elem Klimov,"Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius",8.3,"$71,909",142 min,tt0091251,https://www.imdb.com/title/tt0091251/
+91,Requiem for a Dream,2000,Drama,Darren Aronofsky,"Ellen Burstyn, Jared Leto, Jennifer Connelly",8.3,"$3,635,482",102 min,tt0180093,https://www.imdb.com/title/tt0180093/
+92,Star Wars: Episode VI - Return of the Jedi,1983,"Action, Adventure, Fantasy",Richard Marquand,"Mark Hamill, Harrison Ford, Carrie Fisher",8.3,"$316,566,101",131 min,tt0086190,https://www.imdb.com/title/tt0086190/
+93,Toy Story 3,2010,"Animation, Adventure, Comedy",Lee Unkrich,"Tom Hanks, Tim Allen, Joan Cusack",8.3,"$415,004,880",103 min,tt0435761,https://www.imdb.com/title/tt0435761/
+94,The Hunt,2012,Drama,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",8.3,"$613,308",115 min,tt2106476,https://www.imdb.com/title/tt2106476/
+95,Ikiru,1952,Drama,Akira Kurosawa,"Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori",8.3,"$60,239",143 min,tt0044741,https://www.imdb.com/title/tt0044741/
+96,Eternal Sunshine of the Spotless Mind,2004,"Drama, Romance, Sci-Fi",Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson",8.3,"$34,400,301",108 min,tt0338013,https://www.imdb.com/title/tt0338013/
+97,Incendies,2010,"Drama, Mystery, War",Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette",8.3,"$2,071,334",131 min,tt1255953,https://www.imdb.com/title/tt1255953/
+98,The Apartment,1960,"Comedy, Drama, Romance",Billy Wilder,"Jack Lemmon, Shirley MacLaine, Fred MacMurray",8.3,"$18,600,000",125 min,tt0053604,https://www.imdb.com/title/tt0053604/
+99,2001: A Space Odyssey,1968,"Adventure, Sci-Fi",Stanley Kubrick,"Keir Dullea, Gary Lockwood, William Sylvester",8.3,"$60,481,243",149 min,tt0062622,https://www.imdb.com/title/tt0062622/
+100,Lawrence of Arabia,1962,"Adventure, Biography, Drama",David Lean,"Peter O'Toole, Alec Guinness, Anthony Quinn",8.3,"$45,306,425",227 min,tt0056172,https://www.imdb.com/title/tt0056172/
