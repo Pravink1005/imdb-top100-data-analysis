@@ -1,7 +1,7 @@
-# 🎬 IMDb Top 100 Movies Analysis (from Top 250)
+# 🎬 IMDb Top 100 Movies Analysis 
 
 ## 📌 Project Overview
-This project scrapes data from IMDb's **Top 250 Movies list**, but focuses only on the **Top 100 movies** for analysis.  
+This project scrapes data from IMDb's**Top 100 movies** for analysis.  
 The dataset is enriched with the OMDb API, cleaned, and analyzed using Python.  
 The results are also exported to Excel and can be connected to **Power BI** for interactive dashboards.
 
@@ -79,4 +79,5 @@ imdb_movie_analysis/
 └── README.md                        # Project documentation
 
 Developed by Pravin Kumar A
+
 MSc Data Science & Business Analysis 🎓
